@@ -1,1 +1,1 @@
-
+Veri insert ederken tablolar arasındaki bağlantılardan kaynaklı hata almamak için belirli bir sırada insert edilmesi gerekiyor. Bu yüzden tüm tabloların insertlerini sırasını ayarlayıp tek dosyada yükledik. 
